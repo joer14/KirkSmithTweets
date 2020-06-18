@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'LibreBaskerVille';
+  src: url('/fonts/LibreBaskerville-Regular.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  display: flex;
+  align-items: center;
+
+  flex-direction: column;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.container {
+  padding-top: 16px;
+}
