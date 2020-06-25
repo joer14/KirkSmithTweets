@@ -11,8 +11,14 @@ body {
 
   flex-direction: column;
   font-family: 'Libre Baskerville', serif;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 .container {
   padding-top: 16px;
+}
+
+li {
+  padding-bottom: 1rem;
 }
